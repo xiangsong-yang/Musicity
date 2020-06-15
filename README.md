@@ -1,5 +1,5 @@
 # This is the github page of Musicity by Xiangsong Yang
-
+![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/musicity.png)
 
 Musicity is an AR/3d experience that aimed to help people have immersive traveling planning experience. It is based on a scenario that people have problem with travling planning or people who are extremlly into the music.
 ### Original idea
