@@ -22,3 +22,5 @@ After a long time, Xiangsogn started to feel fammilar with the API.
 The UI and UX flow was simulated in Balsamiq Mock up.
 ![alt text](https://raw.githubusercontent.com/xiangsong-yang/Musicity/master/html/balsmic.png)
 
+#### Future
+The current state of the project is having a demo on the website. The next step will be merge the UI with the frontend. Unfortunatly, UAL blocked the site for the most of the time. It is quite hard to develop in the bunker where Xiangsong stays. But Xiangsong had made a plan to make further deverlopment with the master student in HCI from Geogia Tech, also, try to bring the website online.
